@@ -1,0 +1,19 @@
+{
+    "name": "admin/khoahoc",
+    "description": "du an xuong Ezcode",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "toannx",
+            "email": "toannxph44181@fpt.edu.vn"
+        }
+    ],
+    "require": {
+        "phroute/phroute": "^2.2",
+        "eftec/bladeone": "^4.9"
+    }
+}
